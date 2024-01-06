@@ -1,5 +1,6 @@
+<h1 align="center">Turing Factory</h1>
+
 <p align="center">
-  # Turing Factory
   <img src="https://pbs.twimg.com/profile_images/1743758819539267584/uBB0sqHp_400x400.jpg" alt="Logo de Turing Factory">
 </p>
 
@@ -52,7 +53,7 @@ Discover the power of imagination turned into reality at Turing Factory. We are 
 *Let's shape the future together!* 🚀✨
 
 
-# Turing Factory
+<h1 align="center">Turing Factory</h1>
 
 <p align="center">
   <img src="https://pbs.twimg.com/profile_images/1743758819539267584/uBB0sqHp_400x400.jpg" alt="Logo de Turing Factory">
