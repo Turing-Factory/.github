@@ -1,6 +1,6 @@
 # Turing Factory
 
-![Turing Factory Logo]([https://twitter.com/TuringFactoryA/photo])
+![Turing Factory Logo][https://pbs.twimg.com/profile_images/1743758819539267584/uBB0sqHp_400x400.jpg)
 
 ## About Us
 
@@ -37,8 +37,8 @@ We specialize in a wide array of technologies, ensuring that we stay at the fore
 
 ## Connect with Us
 
-- **LinkedIn:** [Turing Factory LinkedIn]([https://www.linkedin.com/company/turingfactory/])
-- **Twitter:** [@TuringFactory]([https://twitter.com/TuringFactoryA])
+- **LinkedIn:** [Turing Factory LinkedIn](https://www.linkedin.com/company/turingfactory/)
+- **Twitter:** [@TuringFactory](https://twitter.com/TuringFactoryA)
 <!--- **Website:** [www.turingfactory.com](url-del-sitio-web)-->
 
 ## Join Us on the Journey
@@ -52,7 +52,7 @@ Discover the power of imagination turned into reality at Turing Factory. We are 
 
 # Turing Factory
 
-![Logo de Turing Factory]([https://twitter.com/TuringFactoryA/photo])
+![Logo de Turing Factory](https://pbs.twimg.com/profile_images/1743758819539267584/uBB0sqHp_400x400.jpg)
 
 ## Sobre Nosotros
 
@@ -89,8 +89,8 @@ Nos especializamos en una amplia variedad de tecnologías, asegurando que nos ma
 
 ## Conéctate con Nosotros
 
-- **LinkedIn:** [LinkedIn de Turing Factory]([https://www.linkedin.com/company/turingfactory/])
-- **Twitter:** [@TuringFactory]([https://twitter.com/TuringFactoryA])
+- **LinkedIn:** [LinkedIn de Turing Factory](https://www.linkedin.com/company/turingfactory/)
+- **Twitter:** [@TuringFactory](https://twitter.com/TuringFactoryA)
 <!-- **Sitio Web:** [www.turingfactory.com](url-del-sitio-web)-->
 
 ## Únete a Nosotros en el Viaje
