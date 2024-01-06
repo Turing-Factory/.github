@@ -1,6 +1,5 @@
-# Turing Factory
-
 <p align="center">
+  # Turing Factory
   <img src="https://pbs.twimg.com/profile_images/1743758819539267584/uBB0sqHp_400x400.jpg" alt="Logo de Turing Factory">
 </p>
 
